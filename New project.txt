@@ -1,4 +1,9 @@
-This is my first project 
+class HelloWorld {
 
-Second 
-third
+public static void main (string args[]) {
+
+
+system.out.println (" My world is java coding...")
+
+}
+}
